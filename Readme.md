@@ -27,3 +27,8 @@ HTML5
 CSS3
 
 Google Fonts (Poppins)
+
+
+Credits
+
+Design inspired by a sample portfolio layout.
