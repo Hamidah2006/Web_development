@@ -16,7 +16,7 @@
   </header>
 
   <section class="section profile">
-    <img src="https://via.placeholder.com/250x300" alt="John Watson">
+    <img src="https://unsplash.com/photos/a-woman-wearing-sunglasses-and-a-red-top-3ZQHVfq0fas" alt="John Watson">
     <div>
       <h2>A Lead UI Designer & Web Developer Based in UK</h2>
       <p>I design and develop services for customers of all sizes, specializing in creating stylish, modern websites and web services.</p>
@@ -48,12 +48,12 @@
 
   <section class="section gallery">
     <h2>My Success Work</h2>
-    <img src="https://via.placeholder.com/200" alt="Work 1">
-    <img src="https://via.placeholder.com/200" alt="Work 2">
-    <img src="https://via.placeholder.com/200" alt="Work 3">
-    <img src="https://via.placeholder.com/200" alt="Work 4">
-    <img src="https://via.placeholder.com/200" alt="Work 5">
-    <img src="https://via.placeholder.com/200" alt="Work 6">
+    <img src="https://unsplash.com/photos/a-couple-raises-glasses-in-a-celebratory-toast-TJx9w_yP5qU" alt="Work 1">
+    <img src="https://unsplash.com/photos/man-with-a-rose-tattoo-on-his-neck-huLvGx05v9Y" alt="Work 2">
+    <img src="https://unsplash.com/photos/photographer-is-taking-a-photo-with-a-camera-EIUu5Y4AdsM" alt="Work 3">
+    <img src="https://unsplash.com/photos/woman-takes-photos-of-a-city-street-rALhnxSWdvg" alt="Work 4">
+    <img src="https://unsplash.com/photos/a-woman-carrying-a-large-pile-of-clothes-on-her-back-tCgak9g_2FQ" alt="Work 5">
+    <img src="https://unsplash.com/photos/a-man-wearing-a-red-shirt-and-black-shorts-ziNr4PKkpBM" alt="Work 6">
   </section>
 
   <footer>
